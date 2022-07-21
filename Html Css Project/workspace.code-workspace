@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\c laug\\second"
+		},
+		{
+			"path": "..\\..\\javaScript"
+		},
+		{
+			"path": "..\\..\\html tutorial"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "javaScript"
+	}
+}
